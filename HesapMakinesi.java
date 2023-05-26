@@ -1,5 +1,7 @@
 import java.util.Scanner;
-
+/*
+*Calculator codes
+*/
 public class HesapMakinesi {
 
         static void topla() {
